@@ -1,0 +1,27 @@
+{
+  "name": "gql-loader",
+  "version": "1.0.0",
+  "description": "GraphQL Loader for Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smitt04/gql-loader.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "webpack",
+    "loader"
+  ],
+  "author": "Kevin Smithson <smitt04@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smitt04/gql-loader/issues"
+  },
+  "homepage": "https://github.com/smitt04/gql-loader#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
